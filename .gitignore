@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ouro-python/
+.env
+.env.*
+!.env.example
